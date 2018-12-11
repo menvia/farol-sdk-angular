@@ -1,10 +1,10 @@
 {
   "name": "angular-farol-sdk",
-  "homepage": "https://github.com/menvia/farol-sdk-angularjs",
+  "homepage": "https://github.com/menvia/farol-sdk-angular",
   "authors": [
     "Felipe Plets <felipe.plets@menvia.com>"
   ],
-  "description": "Farol SDK for AngularJS",
+  "description": "Farol SDK for Angular",
   "main": "dist/angular-farol-sdk.js",
   "keywords": [
     "farol"

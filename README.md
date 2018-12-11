@@ -1,10 +1,10 @@
-# Farol SDK for AngularJS
+# Farol SDK for Angular
 
 ## Install
 ### Using Bower
 
 - To install or update run ```
-bower install angular-farol-sdk#1.1.7 -S -F
+bower install angular-farol-sdk#2.0.0 -S -F
 ```
 
 ### Using NPM

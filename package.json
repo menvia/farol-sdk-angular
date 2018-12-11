@@ -1,7 +1,7 @@
 {
   "name": "angular-farol-sdk",
-  "version": "1.1.7",
-  "description": "Farol SDK for AngularJS",
+  "version": "2.0.0",
+  "description": "Farol SDK for Angular",
   "main": "dist/angular-farol-sdk.js",
   "scripts": {
     "version": "upver && gulp && git add -A",
