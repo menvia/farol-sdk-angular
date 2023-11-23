@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "angular": "^1.7.5",
-    "farol-sdk": "^1.13.0"
+    "farol-sdk": "^1.15.22"
   },
   "engines": {
     "node": ">= 6.0.0"
